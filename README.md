@@ -2,7 +2,8 @@
 
 <h1 align="center">Add Country Flag Emojis to Windows 8-11</h1>
 
-
+<div align="center">
+  <p>
     <a href="https://github.com/Chasmical/flag-emojis-for-windows/releases">
       <img src="https://img.shields.io/github/downloads/Chasmical/flag-emojis-for-windows/total?label=Downloads&style=flat" alt="Downloads"/>
     </a>
@@ -15,7 +16,8 @@
     <a href="https://chsm.dev/blog/2026/08/27/flag-emojis-for-windows-8-11-reworked">
       <img src="https://img.shields.io/badge/Flag%20Emojis%20for%20Windows%208--11%20Reworked-link?style=flat&label=my%20blog" alt="Read my blog"/>
     </a>
-
+</p>
+</div>
 
 <h2 align="center">This font adds <b>country flag emojis</b> to Windows, while keeping all <b>Win11's original emojis</b>! 🇬🇧🧑‍💻🇯🇵😎🇰🇷💀🇨🇳🤖🇫🇷✨🇪🇸🐛🇮🇹</h2>
 
